@@ -1,0 +1,91 @@
+buildscript {
+    repositories {
+        mavenCentral()
+    }
+    dependencies {
+        classpath("org.springframework.boot:spring-boot-gradle-plugin:$vSpringBoot")
+    }
+}
+
+apply plugin: 'java'
+apply plugin: 'idea'
+apply plugin: "jacoco"
+apply plugin: 'org.springframework.boot'
+apply plugin: 'io.spring.dependency-management'
+apply plugin: 'maven'
+
+group 'co.com.company'
+version "1.0.0"
+sourceCompatibility = '1.8'
+targetCompatibility = '1.8'
+wrapper.gradleVersion = '5.4.1'
+
+repositories {
+    mavenCentral()
+}
+
+configurations {
+    compile.exclude module: 'spring-boot-starter-tomcat'
+    compile.exclude module: 'spring-boot-starter-logging'
+}
+
+dependencies {
+    //Spring
+    implementation group: 'org.springframework.boot', name: 'spring-boot-starter-web'
+    implementation group: 'org.springframework.boot', name: 'spring-boot-starter-undertow'
+    implementation group: 'org.springframework.boot', name: 'spring-boot-starter-actuator'
+    //HTTP
+    implementation group: 'org.apache.httpcomponents', name: 'httpclient', version: "$vHttpComponents"
+    //TinyLog
+    implementation group: 'org.tinylog', name: 'tinylog-api', version: "$vTinyLog"
+    implementation group: 'org.tinylog', name: 'tinylog-impl', version: "$vTinyLog"
+    implementation group: 'org.tinylog', name: 'slf4j-tinylog', version: "$vTinyLog"
+    //Test
+    testImplementation group: 'junit', name: 'junit', version: "$vJUnit"
+}
+
+bootJar {
+    archiveBaseName = project.archivesBaseName
+    version =  project.version
+}
+
+jacocoTestReport {
+    reports {
+        xml.enabled true
+        csv.enabled true
+        html.destination file("${buildDir}/test-results/jacocoHtml")
+    }
+}
+
+task deleteDockerDir(type: Delete) {
+    delete "${buildDir}/docker"
+}
+
+task unzipBoot(type: Copy) {
+    def zipFile = file("${buildDir}/libs/" + project.name + '-' + project.version + '.jar')
+    def outputDir = file("${buildDir}/docker/app")
+
+    from zipTree(zipFile)
+    into outputDir
+
+    def copyDetails = []
+    eachFile { copyDetails << it } doLast { copyDetails.each { FileCopyDetails details ->
+        def target = new File(outputDir, details.path)
+        if (target.exists()) {
+            target.setLastModified(details.lastModified)
+        }
+    }
+    }
+}
+unzipBoot.dependsOn deleteDockerDir
+
+task moveBootExplodedLib() {
+    doLast {
+        ant.move(file: "${buildDir}/docker/app/BOOT-INF/lib", toFile: "${buildDir}/docker/lib")
+    }
+}
+moveBootExplodedLib.dependsOn unzipBoot
+
+task createPom {
+    pom().writeTo("$buildDir/libs/${project.name}-${project.version}.pom")
+}

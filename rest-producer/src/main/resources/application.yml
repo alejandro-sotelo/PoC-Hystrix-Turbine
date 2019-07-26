@@ -1,0 +1,33 @@
+server:
+  port: 8080
+  compression:
+    enabled: true
+    mime-types: application/json,application/xml,text/html,text/xml,text/plain
+  servlet:
+    context-path: /rest-producer
+
+management:
+  endpoint:
+    shutdown:
+      enabled: true
+  endpoints:
+    web:
+      base-path: /features
+      exposure:
+        include: "health,info,metrics,logfile"
+
+logging:
+  file: log/app_log.log
+  path: .
+  level:
+    root: OFF
+---
+spring:
+  profiles:
+    active: development
+---
+spring:
+  profiles: laboratory
+---
+spring:
+  profiles: production

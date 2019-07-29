@@ -1,0 +1,486 @@
+2019-07-26 16:03:26 [HystrixTimer-1] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-26T16:03:26.603 - Servicio gretting no disponible, se activa contingencia
+2019-07-26 16:05:45 [HystrixTimer-3] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-26T16:05:45.021 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 20:36:05 [HystrixTimer-1] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T20:36:05.285 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:05 [HystrixTimer-2] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:05.555 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:06 [HystrixTimer-1] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:06.563 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:07 [HystrixTimer-7] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:07.571 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:08 [HystrixTimer-4] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:08.551 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:08 [HystrixTimer-6] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:08.582 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:09 [HystrixTimer-3] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:09.560 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:09 [HystrixTimer-8] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:09.589 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:10 [HystrixTimer-5] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:10.566 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:10 [HystrixTimer-2] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:10.598 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:11 [HystrixTimer-1] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:11.523 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:11 [HystrixTimer-7] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:11.575 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:11 [HystrixTimer-4] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:11.608 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:12 [HystrixTimer-6] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:12.536 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:12 [HystrixTimer-3] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:12.586 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:12 [HystrixTimer-8] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:12.618 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:13 [HystrixTimer-5] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:13.549 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:13 [HystrixTimer-2] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:13.596 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:13 [HystrixTimer-1] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:13.627 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:14 [HystrixTimer-7] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:14.521 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:14 [HystrixTimer-4] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:14.557 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:14 [HystrixTimer-6] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:14.603 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:14 [HystrixTimer-3] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:14.635 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [HystrixTimer-8] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.534 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-6] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.539 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-8] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.544 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-9] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.547 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-12] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.552 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-7] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.556 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-13] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.561 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-14] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.565 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [HystrixTimer-5] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.567 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-15] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.571 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-16] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.572 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-17] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.576 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-19] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.576 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-18] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.581 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-20] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.581 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-22] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.585 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-21] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.585 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-23] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.590 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-24] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.591 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-26] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.595 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-25] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.595 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-27] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.598 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-28] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.598 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-29] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.604 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-30] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.604 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-31] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.609 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [HystrixTimer-2] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.614 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-32] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.614 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-32] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.615 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-34] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.615 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-35] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.619 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-36] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.621 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-38] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.622 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-37] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.624 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-40] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.627 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-39] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.627 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-40] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.630 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-37] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.630 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-42] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.630 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-45] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.632 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-44] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.632 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-46] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.632 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-47] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.635 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-48] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.635 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-49] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.635 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-52] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.637 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-50] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.637 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-51] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.637 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-54] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.640 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-53] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.640 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-55] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.640 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-56] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.642 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-57] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.642 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-58] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.642 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [HystrixTimer-1] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.643 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-59] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.644 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-61] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.644 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-60] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.644 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-62] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.646 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-64] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.647 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-63] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.647 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-1] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.647 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-3] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.648 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-6] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.649 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-8] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.649 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-3] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.649 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-12] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.650 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-7] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.651 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-14] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.651 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-13] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.651 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-14] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.653 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-16] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.655 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-15] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.655 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-19] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.656 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-16] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.657 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-18] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.658 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-19] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.658 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-22] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.660 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-19] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.660 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-23] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.660 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-24] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.660 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-25] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.662 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-19] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.662 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-28] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.662 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-27] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.662 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-4] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.664 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-29] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.664 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-31] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.664 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-30] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.664 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-32] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.667 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-34] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.667 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-33] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.667 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-35] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.668 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-32] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.671 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-35] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.671 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-32] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.672 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-33] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.671 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-32] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.675 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-35] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.675 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-33] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.677 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-36] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.678 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-33] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.679 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-38] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.679 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-36] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.679 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-41] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.679 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-43] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.679 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-33] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.679 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-33] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.683 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-43] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.685 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-33] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.687 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-33] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.688 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-43] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.688 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-42] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.689 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-45] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.690 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-42] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.691 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-44] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.692 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-42] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.693 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-45] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.693 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-49] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.695 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-42] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.695 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-42] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.695 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-48] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.695 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-45] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.695 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-49] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.699 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-52] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.701 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-45] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.701 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-60] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.703 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-58] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.703 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-59] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.703 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-60] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.704 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-63] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.705 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-1] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.705 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-60] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.706 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-6] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.707 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-20] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.707 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-60] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.709 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-16] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.709 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-21] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.711 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-18] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.711 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-22] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.711 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-23] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.712 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-24] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.713 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-25] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.713 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-23] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.713 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-27] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.714 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-28] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.715 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-29] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.715 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-19] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.715 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-29] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.718 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-31] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.718 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-34] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.718 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-30] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.719 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-32] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.721 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-39] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.721 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-38] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.723 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-39] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.723 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-41] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.723 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-37] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.723 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-46] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.725 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-40] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.725 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-35] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.725 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-43] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.725 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-44] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.728 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-33] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.728 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-47] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.728 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-50] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.728 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-51] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.730 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-55] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.731 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-48] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.730 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-42] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.730 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-54] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.733 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-56] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.733 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-49] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.733 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-53] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.733 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-57] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.736 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-5] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.736 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-61] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.737 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-61] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.739 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-45] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.740 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-5] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.737 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-59] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.743 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-45] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.743 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-64] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.743 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-64] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.744 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-63] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.744 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-1] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.744 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-3] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.747 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-12] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.747 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-8] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.747 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-7] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.748 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-7] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.752 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-7] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.752 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-14] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.755 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-17] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.758 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-6] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.758 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-20] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.760 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-2] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.752 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-60] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.761 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-16] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.764 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-2] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.765 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-16] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.766 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-2] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.766 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-2] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.771 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-23] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.773 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-25] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.775 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-24] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.776 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-27] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.777 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-28] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.779 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-4] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.780 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-19] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.781 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-29] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.782 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-31] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.785 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-30] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.786 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-34] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.787 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-32] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.789 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-36] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.790 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-37] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.791 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 21:13:15 [XNIO-1 task-39] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T21:13:15.792 - Servicio gretting no disponible, se activa contingencia

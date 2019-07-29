@@ -27,7 +27,7 @@ public class GreetingController {
         if (remoteAdr == null || "".equals(remoteAdr)) {
             remoteAdr = request.getRemoteAddr();
         }
-        Logger.tag("EXPOSE_WS").info("{} - Hello {}! from IP:{}", LocalDateTime.now(),name, remoteAdr);
+
         return String.format("Hello %s!%n", name);
     }
 

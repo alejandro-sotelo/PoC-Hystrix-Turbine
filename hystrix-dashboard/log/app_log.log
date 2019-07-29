@@ -1,0 +1,6 @@
+2019-07-26 16:03:26 [HystrixTimer-1] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-26T16:03:26.603 - Servicio gretting no disponible, se activa contingencia
+2019-07-26 16:05:45 [HystrixTimer-3] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-26T16:05:45.021 - Servicio gretting no disponible, se activa contingencia
+2019-07-28 20:36:05 [HystrixTimer-1] co.com.company.infrastructure.adapter.resttemplate.GrettingConsumeRestTemplate.genericGretting()
+INFO: 2019-07-28T20:36:05.285 - Servicio gretting no disponible, se activa contingencia

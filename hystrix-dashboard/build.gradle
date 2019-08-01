@@ -36,9 +36,6 @@ dependencies {
     implementation group: 'org.springframework.boot', name: 'spring-boot-starter-actuator'
     //Hystrix
     implementation group: 'org.springframework.cloud', name: 'spring-cloud-starter-netflix-hystrix-dashboard', version: "$vHystrix"
-
-
-
     //TinyLog
     implementation group: 'org.tinylog', name: 'tinylog-api', version: "$vTinyLog"
     implementation group: 'org.tinylog', name: 'tinylog-impl', version: "$vTinyLog"

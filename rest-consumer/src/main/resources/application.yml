@@ -14,7 +14,7 @@ management:
     web:
       base-path: /features
       exposure:
-        include: "health,info,metrics,logfile,hystrix.stream"
+        include: "health,info,metrics,logfile,hystrix.stream, prometheus"
 
 logging:
   file: log/app_log.log
@@ -25,6 +25,8 @@ logging:
 spring:
   profiles:
     active: development
+  main:
+    allow-bean-definition-overriding: true
 ---
 spring:
   profiles: laboratory

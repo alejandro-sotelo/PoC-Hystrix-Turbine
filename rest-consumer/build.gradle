@@ -22,6 +22,7 @@ wrapper.gradleVersion = '5.4.1'
 
 repositories {
     mavenCentral()
+    maven { url 'https://jitpack.io' }
 }
 
 configurations {
@@ -32,12 +33,14 @@ configurations {
 dependencies {
     //Spring
     implementation group: 'org.springframework.boot', name: 'spring-boot-starter-web'
-    implementation group: 'org.springframework.boot', name: 'spring-boot-starter-undertow'
+    implementation group: 'org.springframework.boot', name: 'spring-boot-starter-jetty'
     implementation group: 'org.springframework.boot', name: 'spring-boot-starter-actuator'
     //HTTP
     implementation group: 'org.apache.httpcomponents', name: 'httpclient', version: "$vHttpComponents"
     //Hystrix
     implementation group: 'org.springframework.cloud', name: 'spring-cloud-starter-netflix-hystrix', version: "$vHystrix"
+    implementation group: 'io.micrometer', name:'micrometer-registry-prometheus', version:'1.0.8'
+
 
 
     //TinyLog
